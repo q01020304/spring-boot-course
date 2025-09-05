@@ -4,6 +4,11 @@ server:
   #自定义配置
   my:
     #心情语录
-  mood: <3 keys>
+   mood:
+     today:  周五
+     content:  期待周末
+     author:  "小程序员"
   #功能开关
-
+feature:
+  helloSwitch: false
+  closemsg: "功能维护中,十分钟之后再来吧"
